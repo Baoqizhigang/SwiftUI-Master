@@ -30,11 +30,17 @@ struct Stacks: View {
                 .frame(width:120, height: 100)
                 .cornerRadius(20)
             
-            Image(systemName: "heart.circle.fill")
-                .resizable()
-                .foregroundColor(.yellow)
-                .frame(width: 50, height: 50)
-                .padding()
+            HStack(spacing: 10) {
+                Image(systemName: "heart.circle.fill")
+                    .resizable()
+                    .foregroundColor(.yellow)
+                    .frame(width: 50, height: 50)
+                    .padding()
+                
+                Text("**Hello World!**")
+                    .foregroundColor(.green)
+                    .font(.headline)
+            }
         }
         
         VStack(spacing: -10){
