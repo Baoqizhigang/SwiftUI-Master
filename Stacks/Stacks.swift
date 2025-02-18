@@ -45,7 +45,7 @@ struct Stacks: View {
                 .foregroundColor(.pink)
                 .frame(width: 100, height: 100)
             
-            Text("Hello WORLD")
+            Text("Hello World!")
         }
         .padding(50)
         
