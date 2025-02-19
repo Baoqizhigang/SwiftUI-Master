@@ -10,7 +10,7 @@ import SwiftUI
 struct StacksModule: View {
     var body: some View {
        
-        VStack (alignment: .leading){
+        VStack (alignment: .leading, spacing: 2){
             // cell 1
             HStack {
                 // profile image
@@ -30,8 +30,7 @@ struct StacksModule: View {
                         .font(.subheadline)
                 }
             }
-            Divider().padding(-15)
-            
+            Divider()
             
             // cell 2
             HStack {
@@ -52,9 +51,8 @@ struct StacksModule: View {
                         .font(.subheadline)
                 }
             }
-            Divider().padding(-15)
-            
-            
+            Divider()
+    
         }
         .padding()
     }
