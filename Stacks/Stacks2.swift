@@ -29,6 +29,12 @@ struct StacksModule: View {
                     Text ("Joe Liu")
                         .font(.subheadline)
                 }
+                Spacer()
+                
+                Image(systemName: "heart.circle.fill")
+                    .resizable()
+                    .foregroundColor(.pink)
+                    .frame(width: 30, height: 30)
             }
             Divider()
             
@@ -50,9 +56,17 @@ struct StacksModule: View {
                     Text ("Joe Liu")
                         .font(.subheadline)
                 }
+                Spacer()
+                
+                Image(systemName: "heart.circle.fill")
+                    .resizable()
+                    .foregroundColor(.purple)
+                    .frame(width: 30, height: 30)
             }
             Divider()
-    
+            
+            
+            Spacer()
         }
         .padding()
     }
