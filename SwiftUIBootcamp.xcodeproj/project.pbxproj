@@ -29,31 +29,6 @@
 			path = SwiftUIBootcamp;
 			sourceTree = "<group>";
 		};
-		7BD8CDC52D642F13001FC72D /* App */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			path = App;
-			sourceTree = "<group>";
-		};
-		7BD8CDCA2D642F56001FC72D /* Root */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			path = Root;
-			sourceTree = "<group>";
-		};
-		7BD8CDCE2D642FA5001FC72D /* Text */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			path = Text;
-			sourceTree = "<group>";
-		};
-		7BD8CDD02D642FB9001FC72D /* Image */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			path = Image;
-			sourceTree = "<group>";
-		};
-		7BD8CDDE2D643C70001FC72D /* Stacks */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			path = Stacks;
-			sourceTree = "<group>";
-		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,11 +47,6 @@
 			children = (
 				7BD8CDA62D63D6B1001FC72D /* SwiftUIBootcamp */,
 				7BD8CDA52D63D6B1001FC72D /* Products */,
-				7BD8CDC52D642F13001FC72D /* App */,
-				7BD8CDCA2D642F56001FC72D /* Root */,
-				7BD8CDCE2D642FA5001FC72D /* Text */,
-				7BD8CDD02D642FB9001FC72D /* Image */,
-				7BD8CDDE2D643C70001FC72D /* Stacks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -105,11 +75,6 @@
 			);
 			fileSystemSynchronizedGroups = (
 				7BD8CDA62D63D6B1001FC72D /* SwiftUIBootcamp */,
-				7BD8CDC52D642F13001FC72D /* App */,
-				7BD8CDCA2D642F56001FC72D /* Root */,
-				7BD8CDCE2D642FA5001FC72D /* Text */,
-				7BD8CDD02D642FB9001FC72D /* Image */,
-				7BD8CDDE2D643C70001FC72D /* Stacks */,
 			);
 			name = SwiftUIBootcamp;
 			packageProductDependencies = (
