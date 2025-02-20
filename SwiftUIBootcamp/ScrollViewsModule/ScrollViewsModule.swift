@@ -32,7 +32,7 @@ struct ScrollViewsModule: View {
                             .resizable()
                             .scaledToFill()
                             .frame(width: 360, height: 150)
-                            .clipShape(Rectangle())
+                            //.clipShape(Rectangle())
                             .cornerRadius(10)
                         
                         VStack(alignment: .leading) {
