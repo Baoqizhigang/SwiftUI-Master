@@ -7,32 +7,19 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		7BD8CDA42D63D6B1001FC72D /* SwiftUIBootcamp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUIBootcamp.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		7BD8CE532D67DF0D001FC72D /* SwiftUIBootcampNew.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUIBootcampNew.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
-/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		7BD8CDB62D63D6B3001FC72D /* Exceptions for "SwiftUIBootcamp" folder in "SwiftUIBootcamp" target */ = {
-			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
-			membershipExceptions = (
-				Info.plist,
-			);
-			target = 7BD8CDA32D63D6B1001FC72D /* SwiftUIBootcamp */;
-		};
-/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
-
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		7BD8CDA62D63D6B1001FC72D /* SwiftUIBootcamp */ = {
+		7BD8CE552D67DF0D001FC72D /* SwiftUIBootcampNew */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			exceptions = (
-				7BD8CDB62D63D6B3001FC72D /* Exceptions for "SwiftUIBootcamp" folder in "SwiftUIBootcamp" target */,
-			);
-			path = SwiftUIBootcamp;
+			path = SwiftUIBootcampNew;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		7BD8CDA12D63D6B1001FC72D /* Frameworks */ = {
+		7BD8CE502D67DF0D001FC72D /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -42,18 +29,18 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		7BD8CD9B2D63D6B1001FC72D = {
+		7BD8CE4A2D67DF0D001FC72D = {
 			isa = PBXGroup;
 			children = (
-				7BD8CDA62D63D6B1001FC72D /* SwiftUIBootcamp */,
-				7BD8CDA52D63D6B1001FC72D /* Products */,
+				7BD8CE552D67DF0D001FC72D /* SwiftUIBootcampNew */,
+				7BD8CE542D67DF0D001FC72D /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		7BD8CDA52D63D6B1001FC72D /* Products */ = {
+		7BD8CE542D67DF0D001FC72D /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				7BD8CDA42D63D6B1001FC72D /* SwiftUIBootcamp.app */,
+				7BD8CE532D67DF0D001FC72D /* SwiftUIBootcampNew.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -61,64 +48,64 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		7BD8CDA32D63D6B1001FC72D /* SwiftUIBootcamp */ = {
+		7BD8CE522D67DF0D001FC72D /* SwiftUIBootcampNew */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 7BD8CDB72D63D6B3001FC72D /* Build configuration list for PBXNativeTarget "SwiftUIBootcamp" */;
+			buildConfigurationList = 7BD8CE612D67DF0E001FC72D /* Build configuration list for PBXNativeTarget "SwiftUIBootcampNew" */;
 			buildPhases = (
-				7BD8CDA02D63D6B1001FC72D /* Sources */,
-				7BD8CDA12D63D6B1001FC72D /* Frameworks */,
-				7BD8CDA22D63D6B1001FC72D /* Resources */,
+				7BD8CE4F2D67DF0D001FC72D /* Sources */,
+				7BD8CE502D67DF0D001FC72D /* Frameworks */,
+				7BD8CE512D67DF0D001FC72D /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				7BD8CDA62D63D6B1001FC72D /* SwiftUIBootcamp */,
+				7BD8CE552D67DF0D001FC72D /* SwiftUIBootcampNew */,
 			);
-			name = SwiftUIBootcamp;
+			name = SwiftUIBootcampNew;
 			packageProductDependencies = (
 			);
-			productName = SwiftUIBootcamp;
-			productReference = 7BD8CDA42D63D6B1001FC72D /* SwiftUIBootcamp.app */;
+			productName = SwiftUIBootcampNew;
+			productReference = 7BD8CE532D67DF0D001FC72D /* SwiftUIBootcampNew.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		7BD8CD9C2D63D6B1001FC72D /* Project object */ = {
+		7BD8CE4B2D67DF0D001FC72D /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1620;
 				LastUpgradeCheck = 1620;
 				TargetAttributes = {
-					7BD8CDA32D63D6B1001FC72D = {
+					7BD8CE522D67DF0D001FC72D = {
 						CreatedOnToolsVersion = 16.2;
 					};
 				};
 			};
-			buildConfigurationList = 7BD8CD9F2D63D6B1001FC72D /* Build configuration list for PBXProject "SwiftUIBootcamp" */;
+			buildConfigurationList = 7BD8CE4E2D67DF0D001FC72D /* Build configuration list for PBXProject "SwiftUIBootcampNew" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
 			);
-			mainGroup = 7BD8CD9B2D63D6B1001FC72D;
+			mainGroup = 7BD8CE4A2D67DF0D001FC72D;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = 7BD8CDA52D63D6B1001FC72D /* Products */;
+			productRefGroup = 7BD8CE542D67DF0D001FC72D /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				7BD8CDA32D63D6B1001FC72D /* SwiftUIBootcamp */,
+				7BD8CE522D67DF0D001FC72D /* SwiftUIBootcampNew */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		7BD8CDA22D63D6B1001FC72D /* Resources */ = {
+		7BD8CE512D67DF0D001FC72D /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -128,7 +115,7 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		7BD8CDA02D63D6B1001FC72D /* Sources */ = {
+		7BD8CE4F2D67DF0D001FC72D /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -138,63 +125,7 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		7BD8CDB82D63D6B3001FC72D /* Debug */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = MB6QK6XT9A;
-				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = SwiftUIBootcamp/Info.plist;
-				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
-				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
-				INFOPLIST_KEY_UIMainStoryboardFile = Main;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-				);
-				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.JoeLIU.SwiftUIBootcamp;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_EMIT_LOC_STRINGS = YES;
-				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-			};
-			name = Debug;
-		};
-		7BD8CDB92D63D6B3001FC72D /* Release */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = MB6QK6XT9A;
-				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = SwiftUIBootcamp/Info.plist;
-				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
-				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
-				INFOPLIST_KEY_UIMainStoryboardFile = Main;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-				);
-				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.JoeLIU.SwiftUIBootcamp;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_EMIT_LOC_STRINGS = YES;
-				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-			};
-			name = Release;
-		};
-		7BD8CDBA2D63D6B3001FC72D /* Debug */ = {
+		7BD8CE5F2D67DF0E001FC72D /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -257,7 +188,7 @@
 			};
 			name = Debug;
 		};
-		7BD8CDBB2D63D6B3001FC72D /* Release */ = {
+		7BD8CE602D67DF0E001FC72D /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -313,28 +244,86 @@
 			};
 			name = Release;
 		};
+		7BD8CE622D67DF0E001FC72D /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"SwiftUIBootcampNew/Preview Content\"";
+				DEVELOPMENT_TEAM = MB6QK6XT9A;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.JoeLIU.SwiftUIBootcampNew;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		7BD8CE632D67DF0E001FC72D /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"SwiftUIBootcampNew/Preview Content\"";
+				DEVELOPMENT_TEAM = MB6QK6XT9A;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.JoeLIU.SwiftUIBootcampNew;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		7BD8CD9F2D63D6B1001FC72D /* Build configuration list for PBXProject "SwiftUIBootcamp" */ = {
+		7BD8CE4E2D67DF0D001FC72D /* Build configuration list for PBXProject "SwiftUIBootcampNew" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				7BD8CDBA2D63D6B3001FC72D /* Debug */,
-				7BD8CDBB2D63D6B3001FC72D /* Release */,
+				7BD8CE5F2D67DF0E001FC72D /* Debug */,
+				7BD8CE602D67DF0E001FC72D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		7BD8CDB72D63D6B3001FC72D /* Build configuration list for PBXNativeTarget "SwiftUIBootcamp" */ = {
+		7BD8CE612D67DF0E001FC72D /* Build configuration list for PBXNativeTarget "SwiftUIBootcampNew" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				7BD8CDB82D63D6B3001FC72D /* Debug */,
-				7BD8CDB92D63D6B3001FC72D /* Release */,
+				7BD8CE622D67DF0E001FC72D /* Debug */,
+				7BD8CE632D67DF0E001FC72D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 7BD8CD9C2D63D6B1001FC72D /* Project object */;
+	rootObject = 7BD8CE4B2D67DF0D001FC72D /* Project object */;
 }
